@@ -24,7 +24,7 @@ export default function Section2() {
                 display: 'none',
                 '@media (max-width: 768px)': {
                     display: 'block',
-                    paddingLeft: '1em',
+                    paddingLeft: '1.6em',
                     fontFamily: 'blacksans',
                     fontSize: '0.7em',
                     paddingBottom: '0.5em'
