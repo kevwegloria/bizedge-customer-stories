@@ -1,0 +1,167 @@
+@font-face {
+    font-family: 'blacksansblack';
+    src: url(./fonts/blacksansblack.woff) format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'blacksanscon';
+    src: url(./fonts/blacksanscon.woff) format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'blacksans';
+    src: url(./fonts/blacksans.woff) format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'blacksansbold';
+    src: url(./fonts/blacksansbold.woff) format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    /* border: 1px solid red; */
+
+}
+
+.story1 {
+    height: 9.85em;
+    border-top-left-radius: 17px;
+    border-top-right-radius: 17px;
+}
+
+.story2 {
+    height: 9.87em;
+    border-top-left-radius: 17px;
+    border-top-right-radius: 17px;
+}
+
+.story3 {
+    height: 9.87em;
+    border-top-left-radius: 17px;
+    border-top-right-radius: 17px;
+}
+
+.story4 {
+    height: 9.87em;
+    border-top-left-radius: 17px;
+    border-top-right-radius: 17px;
+}
+
+.story5 {
+    height: 9.87em;
+    border-top-left-radius: 17px;
+    border-top-right-radius: 17px;
+}
+
+.story6 {
+    height: 9.87em;
+    border-top-left-radius: 17px;
+    border-top-right-radius: 17px;
+}
+
+.story7 {
+    height: 9.87em;
+    border-top-left-radius: 17px;
+    border-top-right-radius: 17px;
+}
+
+.story8 {
+    height: 9.87em;
+    border-top-left-radius: 17px;
+    border-top-right-radius: 17px;
+}
+
+.logo2 {
+    height: 2em;
+    margin-bottom: 11.5em;
+}
+
+.apple {
+
+    width: 6.4em;
+    margin-bottom: 0.7em;
+}
+
+.google {
+    width: 6.4em;
+}
+
+@media (max-width: 768px) {
+    .logo {
+        height: 30px;
+
+    }
+
+
+    .story1 {
+        height: 11.5em;
+    }
+
+    .story2 {
+        height: 11.5em;
+    }
+
+    .story3 {
+        height: 11.5em;
+    }
+
+    .story4 {
+        height: 11.5em;
+    }
+
+    .story5 {
+        height: 11.5em;
+    }
+
+    .story6 {
+        height: 11.5em;
+    }
+
+    .story7 {
+        height: 11.5em;
+    }
+
+    .story8 {
+        height: 11.5em;
+    }
+
+}
+
+@media (max-width: 1024px) {
+    .story1 {
+        height: 10.95em;
+    }
+    .story2 {
+        height: 10.96em;
+    }
+    .story3 {
+        height: 10.96em;
+    }
+    .story4 {
+        height: 10.96em;
+    }
+    .story5 {
+        height: 10.96em;
+    }
+    .story6 {
+        height: 10.96em;
+    }
+    .story7 {
+        height: 10.96em;
+    }
+    .story8 {
+        height: 10.96em;
+    }
+}
