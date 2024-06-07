@@ -24,20 +24,12 @@ export default function Section2() {
                 display: 'none',
                 '@media (max-width: 768px)': {
                     display: 'block',
-                    marginLeft: '1em',
+                    paddingLeft: '1em',
                     fontFamily: 'blacksans',
                     fontSize: '0.7em',
                     paddingBottom: '0.5em'
                 },
-                '@media (max-width: 1024px)': {
-                    display: 'block',
-                    paddingLeft: '3.7em',
-                    fontSize: '1.2em',
-                    paddingBottom: '0.5em'
 
-
-
-                }
 
             }}>(60 Inspiring Stories)</Typography>
             <Box
@@ -47,7 +39,7 @@ export default function Section2() {
                     justifyContent: 'center',
 
                     '@media (max-width: 1024px)': {
-                     
+
                     },
 
 
@@ -67,9 +59,7 @@ export default function Section2() {
                             gridTemplateColumns: 'auto',
 
                         },
-                        '@media (max-width: 1024px)': {
-                            gridTemplateColumns: 'auto auto'
-                        },
+                     
 
 
 
@@ -92,9 +82,7 @@ export default function Section2() {
                                 width: '21em',
 
                             },
-                            '@media (max-width: 1024px)': {
-                               width: '20em'
-                            },
+
 
 
                         }}>
@@ -157,9 +145,7 @@ export default function Section2() {
                                 width: '21em',
 
                             },
-                            '@media (max-width: 1024px)': {
-                                width: '20em'
-                             },
+                           
                         }}>
                             <img
                                 src={story2}
@@ -218,9 +204,7 @@ export default function Section2() {
                                 width: '21em',
 
                             },
-                            '@media (max-width: 1024px)': {
-                                width: '20em'
-                             },
+                            
                         }}>
                             <img
                                 src={story3}
@@ -278,9 +262,7 @@ export default function Section2() {
                                 width: '21em',
 
                             },
-                            '@media (max-width: 1024px)': {
-                                width: '20em'
-                             },
+                         
                         }}>
                             <img
                                 src={story4}
@@ -345,9 +327,7 @@ export default function Section2() {
                                 width: '21em',
 
                             },
-                            '@media (max-width: 1024px)': {
-                                width: '20em'
-                             },
+                           
                         }}>
                             <img
                                 src={story5}
@@ -405,9 +385,7 @@ export default function Section2() {
                                 width: '21em',
 
                             },
-                            '@media (max-width: 1024px)': {
-                                width: '20em'
-                             },
+                           
                         }}>
                             <img
                                 src={story6}
@@ -464,9 +442,7 @@ export default function Section2() {
                                 width: '21em',
 
                             },
-                            '@media (max-width: 1024px)': {
-                                width: '20em'
-                             },
+                           
                         }}>
                             <img
                                 src={story7}
@@ -523,9 +499,7 @@ export default function Section2() {
                                 width: '21em',
 
                             },
-                            '@media (max-width: 1024px)': {
-                                width: '20em'
-                             },
+                           
                         }}>
                             <img
                                 src={story8}

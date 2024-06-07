@@ -139,29 +139,3 @@
 
 }
 
-@media (max-width: 1024px) {
-    .story1 {
-        height: 10.95em;
-    }
-    .story2 {
-        height: 10.96em;
-    }
-    .story3 {
-        height: 10.96em;
-    }
-    .story4 {
-        height: 10.96em;
-    }
-    .story5 {
-        height: 10.96em;
-    }
-    .story6 {
-        height: 10.96em;
-    }
-    .story7 {
-        height: 10.96em;
-    }
-    .story8 {
-        height: 10.96em;
-    }
-}

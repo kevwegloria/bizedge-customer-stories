@@ -24,12 +24,7 @@ export default function Section3() {
                     paddingBottom: '1.5em'
 
                 },
-                '@media (max-width: 1024px)': {
-                    width: '43em',
-                    paddingTop: '1.5em',
-                    paddingBottom: '1.5em'
-
-                }
+               
 
             }}>
                 <Typography
@@ -43,9 +38,7 @@ export default function Section3() {
                             fontWeight: 'bold'
 
                         },
-                        '@media (max-width: 1024px)': {
-                            fontSize: '1.5em'
-                        }
+                      
 
                     }}>Ready to get onboard?</Typography>
                 <Typography
@@ -61,9 +54,7 @@ export default function Section3() {
 
 
                         },
-                        '@media (max-width: 1024px)': {
-                            fontSize: '1em'
-                        }
+                    
                     }}>Let's get your business moving with no hassle</Typography>
                 <Box
                     sx={{

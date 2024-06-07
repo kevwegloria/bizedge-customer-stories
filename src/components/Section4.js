@@ -31,9 +31,7 @@ export default function Section4() {
 
                     justifyContent: 'space-between',
                     width: '57em',
-                    '@media (max-width: 1024px)': {
-                        width: '40em'
-                    }
+                
 
                 }}>
                     <Box>

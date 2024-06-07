@@ -25,9 +25,7 @@ export default function Section1() {
                             fontFamily: 'blacksansblack',
 
                         },
-                        '@media (max-width: 1024px)': {
-                            fontSize: '2em'
-                        }
+                    
 
                     }}>Inspiring Stories from Our Customers</Typography>
                 <Typography variant="p"
@@ -43,10 +41,7 @@ export default function Section1() {
                             fontSize: '0.75em',
                             paddingTop: '2em'
                         },
-                        '@media (max-width: 1024px)': {
-                            fontSize: '1em'
-                        }
-
+                     
 
                     }}>We have great customers. They have great stories. Read, and watch how businesses are using BizEdge to get more done</Typography>
             </Box>
